@@ -3,5 +3,5 @@ def my_own_map(array)
  array.map {
     |element| element * -1
   }
-  return output_array
+  return array
 end
